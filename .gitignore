@@ -1,0 +1,9 @@
+/target
+/Cargo.lock
+.secrets
+/debug_logs
+/notebooks
+/scripts
+/crates/ethers-rs-proc-macro/notebooks/data
+/crates/ethers-rs-proc-macro/notebooks/
+__pycache__/

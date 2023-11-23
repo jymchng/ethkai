@@ -1,0 +1,4 @@
+/target
+/Cargo.lock
+.secrets
+debug_logs/

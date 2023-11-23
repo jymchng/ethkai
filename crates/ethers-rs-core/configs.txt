@@ -1,0 +1,1 @@
+UNISWAP_ABI_JSON_FILEPATH=./src/abigen/contracts/uniswap_abi.json
